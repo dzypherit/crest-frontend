@@ -8,57 +8,57 @@ import { media } from 'utils/media';
 const FEATURES = [
   {
     imageUrl: '/grid-icons/asset-1.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Blockchain-Powered Security',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Your financial security is our top priority. crest leverages cutting-edge blockchain technology to provide unparalleled protection for your transactions, ensuring that your sensitive data remains safe from any unauthorized access.',
   },
   {
     imageUrl: '/grid-icons/asset-2.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Cost-Effective Transactions',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Say goodbye to high transfer and withdrawal fees. With crest blockchain integration, we offer significantly reduced transaction costs, allowing you to make the most of your money without unnecessary expenses.',
   },
   {
     imageUrl: '/grid-icons/asset-3.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Non-Custodial Wallet',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Take control of your funds like never before. crest provides a non-custodial wallet solution, empowering you to manage your assets directly without the need for intermediaries, giving you complete ownership and control over your finances.',
   },
   {
     imageUrl: '/grid-icons/asset-4.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Decentralized 24/7 Wallet App',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Enjoy uninterrupted access to your wallet, thanks to crest decentralized architecture. Our wallet app stays operational 24/7, providing you with constant access to your funds, no matter the time or location.',
   },
   {
     imageUrl: '/grid-icons/asset-5.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Seamless UI/UX',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Banking made simple. crest boasts a user-friendly interface and smooth user experience, making managing your finances a breeze. Whether you are a seasoned pro or new to digital banking, our platform is designed to be intuitive and accessible for all.',
   },
   {
     imageUrl: '/grid-icons/asset-6.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Lightning-Fast Transactions',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'No more waiting around. crest blockchain-backed technology ensures lightning-fast transactions, reducing processing times and allowing you to complete your payments and transfers in record time.',
   },
   {
     imageUrl: '/grid-icons/asset-7.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Smart Contract Capabilities',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Empower your financial decisions with smart contracts. crest enables the use of smart contracts for automated and secure agreements, offering increased transparency and efficiency for your business dealings.',
   },
   {
     imageUrl: '/grid-icons/asset-8.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Multi-Currency Support',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Embrace global opportunities with cCrest multi-currency support. Access a diverse range of currencies within your wallet, simplifying international transactions and expanding your financial reach.',
   },
   {
     imageUrl: '/grid-icons/asset-9.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'Carbon-Free Emission',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      'Embrace sustainability with Crest commitment to the environment. As a carbon-free emission company, we take pride in minimizing our ecological footprint.',
   },
 ];
 

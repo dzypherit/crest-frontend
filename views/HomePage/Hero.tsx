@@ -14,11 +14,10 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
-        <Heading>Make your life easier with our SaaS</Heading>
+        <CustomOverTitle>Comprehensive Fintech Solutions</CustomOverTitle>
+        <Heading>Welcome to crest</Heading>
         <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
-          repudiandae perspiciatis nostrum praesentium, unde pariatur tempora magni rem. Necessitatibus facilis obcaecati ratione.
+        Your ultimate destination for comprehensive fintech solutions, designed to cater to both businesses and individuals. We offer a wide range of banking services at your fingertips, making managing your finances easier and more efficient than ever before. From seamless transaction services to convenient cash-in and cash-out options, crest has everything you need to take control of your financial life.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
@@ -26,13 +25,13 @@ export default function Hero() {
           </Button>
           <NextLink href="#whitepaper" passHref>
             <Button transparent>
-              Features <span>&rarr;</span>
+              Whitepaper <span>&rarr;</span>
             </Button>
           </NextLink>
         </CustomButtonGroup>
       </Contents>
       <ImageContainer>
-        <HeroIllustration />
+      <img src="/crest.png" alt="Crest" />
       </ImageContainer>
     </HeroWrapper>
   );
